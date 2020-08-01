@@ -1,10 +1,10 @@
 {
 	"details":{
-		"name":"surya",
-		"image":"profile.jpg",
-		"email":"suryanarla54121@gmail.com",
+		"name":"sandu kalyani",
+		"image":"profile.jpeg",
+		"email":"kalyanisandu219@gmail.com",
 		"number":"+91-9999999999",
-		"address":"kakinada"
+		"address":"chilakaluripet"
 	},
 	"careerobjective":{
 		"info":"To become software developer"
@@ -14,22 +14,22 @@
 
 		{
    
-			"institute":"sai aditya institute of science & technology",
+			"institute":"kallam haranadhareddy institute of technology",
 			"degree":"B.tech",
-			"passoutyear":"2019",
-			"percentage":"82%"
+			"passoutyear":"2021",
+			"percentage":"72%"
 		},
 		{
-			"institute":"sri chaitanya college",
+			"institute":"Narayana junior college",
 			"degree":"Intermediate",
-			"passoutyear":"2014",
-			"percentage":"89%"
+			"passoutyear":"2017",
+			"percentage":"95.6%"
 		},
 		{
-			"institute":"Narayana school",
+			"institute":"Prasanna Lakshmi Vidyalayam",
 			"degree":"SSC",
-			"passoutyear":"2012",
-			"percentage":"96%"
+			"passoutyear":"2015",
+			"percentage":"92%"
 		}
 
 	],
@@ -37,15 +37,15 @@
 	"techinicalskills":[
 		{
 		"title":"programming langauges",
-		"info":["c,c++,java,python,R"]
+		"info":["c(Basics),python"]
 	},
 		{
 		"title":"Databases",
-		"info":["oracle,sql,mysql,TinyDB,mongodb"]
+		"info":["mysql"]
 	},
 		{
-		"title":"OPerating system",
-		"info":["windows,linux,ubuntu,Dos"]
+		"title":"Operating system",
+		"info":["windows"]
 	}
 
 	]
