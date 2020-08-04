@@ -4,14 +4,12 @@
 		"image":"profile.jpeg",
 		"email":"kalyanisandu219@gmail.com",
 		"number":"+91-9999999999",
-		"address":"chilakaluripet"
+		"address":"Chilakaluripet"
 	},
-	"careerobjective":{
-		"info":"To become software developer"
+	"Careerobjective":{
+		"info":"To achieve high career growth through a continuous learning process,keep myself dynamic,visionary and competitive with the changing of the world and to contribute for the growth of the organization"
 	},
-	"educationalqualification":[
-	
-
+	"Educationalqualification":[
 		{
    
 			"institute":"kallam haranadhareddy institute of technology",
@@ -34,9 +32,9 @@
 
 	],
 
-	"techinicalskills":[
+	"Techinicalskills":[
 		{
-		"title":"programming langauges",
+		"title":"Programming langauges",
 		"info":["c(Basics),python"]
 	},
 		{
@@ -46,6 +44,15 @@
 		{
 		"title":"Operating system",
 		"info":["windows"]
+	},
+	    {
+	    "title":"Front End",
+	    "info":["Html,CSS,Bootstrap,React Js"] 	
+
+	},
+	    {
+	    "title":"Back End",
+	    "info":["php"]   	
 	}
     ]
-}
+} 	
